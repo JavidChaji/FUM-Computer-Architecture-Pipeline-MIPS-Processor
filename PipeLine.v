@@ -1,4 +1,4 @@
-module PipLine(clk,  PC,  readIWire, readDataA, readDataB, result, writeData, readDataMem, RegDst, Jump,
+module PipeLine(clk,  PC,  readIWire, readDataA, readDataB, result, writeData, readDataMem, RegDst, Jump,
  BranchEq, BranchNeq, BranchLt, BranchGt, MemRead, MemToReg, MemWrite, ALUSrc, RegWrite, alu_src, operation,
  sign_extend_imd, sign_extend_EX, readDataB_EX, readDataA_EX, newPC_EX, jumpAdress_EX, newAdress, 
  RegDst_EX, jump_EX, BranchEq_EX, BranchNeq_EX, BranchGt_EX, BranchLt_EX,memRead_EX, memToReg_EX,
