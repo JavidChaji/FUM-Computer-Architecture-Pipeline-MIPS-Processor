@@ -1,0 +1,303 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_10.6d/examples
+T_opt
+!s110 1580314204
+VC>O@:LRf?OmPY1V:g9oYN2
+04 7 4 work PipLine fast 0
+=1-8c16459531ab-5e31ae5c-290-208c
+o-quiet -auto_acc_if_foreign -work Pipline
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.6d;65
+vadder
+Z1 !s110 1580314190
+!i10b 1
+!s100 ^j_8lQUF@L1Mg;`9TDc3H3
+I9HCFV:o_eVPRmGJDAR47A2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/ADMIN/Desktop/Pipline New/Modelsim
+w1548252551
+8C:/Users/ADMIN/Desktop/Pipline New/adder.v
+FC:/Users/ADMIN/Desktop/Pipline New/adder.v
+L0 1
+Z4 OL;L;10.6d;65
+r1
+!s85 0
+31
+Z5 !s108 1580314190.000000
+!s107 C:/Users/ADMIN/Desktop/Pipline New/adder.v|
+!s90 -reportprogress|300|-work|Pipline|-vopt|-stats=none|C:/Users/ADMIN/Desktop/Pipline New/adder.v|
+!i113 0
+Z6 o-work Pipline -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vALU
+R1
+!i10b 1
+!s100 T9FXJ@4lmz9DhIF7L`^Ui2
+I?j3@bX1N7_mkW<G`^AF340
+R2
+R3
+w1580292419
+8C:/Users/ADMIN/Desktop/Pipline New/alu.v
+FC:/Users/ADMIN/Desktop/Pipline New/alu.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ADMIN/Desktop/Pipline New/alu.v|
+!s90 -reportprogress|300|-work|Pipline|-vopt|-stats=none|C:/Users/ADMIN/Desktop/Pipline New/alu.v|
+!i113 0
+R6
+R0
+n@a@l@u
+vALUControl
+R1
+!i10b 1
+!s100 a`PRaXMS5`I[;DeQUf5ZU0
+I0HfR>?W0bJ]3cdUjkFLQD1
+R2
+R3
+w1580031177
+8C:/Users/ADMIN/Desktop/Pipline New/ALUControl.v
+FC:/Users/ADMIN/Desktop/Pipline New/ALUControl.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ADMIN/Desktop/Pipline New/ALUControl.v|
+!s90 -reportprogress|300|-work|Pipline|-vopt|-stats=none|C:/Users/ADMIN/Desktop/Pipline New/ALUControl.v|
+!i113 0
+R6
+R0
+n@a@l@u@control
+vcontrolUnit
+R1
+!i10b 1
+!s100 ]f4j8E9B5UR5VI9KVhi2=1
+IR<Yk?3OekcPS_G]Rb<6kH2
+R2
+R3
+w1580308241
+8C:/Users/ADMIN/Desktop/Pipline New/ControlUnit.v
+FC:/Users/ADMIN/Desktop/Pipline New/ControlUnit.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ADMIN/Desktop/Pipline New/ControlUnit.v|
+!s90 -reportprogress|300|-work|Pipline|-vopt|-stats=none|C:/Users/ADMIN/Desktop/Pipline New/ControlUnit.v|
+!i113 0
+R6
+R0
+ncontrol@unit
+vData_Hazard_Dectection
+R1
+!i10b 1
+!s100 :NzAkbA]:lmmDRBgjZ9bG0
+IE_[RR_W6_ZNR89[`6Ib213
+R2
+R3
+w1580312125
+8C:/Users/ADMIN/Desktop/Pipline New/Data_Hazard_Detection.v
+FC:/Users/ADMIN/Desktop/Pipline New/Data_Hazard_Detection.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ADMIN/Desktop/Pipline New/Data_Hazard_Detection.v|
+!s90 -reportprogress|300|-work|Pipline|-vopt|-stats=none|C:/Users/ADMIN/Desktop/Pipline New/Data_Hazard_Detection.v|
+!i113 0
+R6
+R0
+n@data_@hazard_@dectection
+vDMemBank
+Z7 !s110 1580314191
+!i10b 1
+!s100 QleiHA4gXJBScalTSQ_oi2
+IGF1OdCY2gLkng7j?PK>kJ2
+R2
+R3
+w1580301409
+8C:/Users/ADMIN/Desktop/Pipline New/DataMemory.v
+FC:/Users/ADMIN/Desktop/Pipline New/DataMemory.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ADMIN/Desktop/Pipline New/DataMemory.v|
+!s90 -reportprogress|300|-work|Pipline|-vopt|-stats=none|C:/Users/ADMIN/Desktop/Pipline New/DataMemory.v|
+!i113 0
+R6
+R0
+n@d@mem@bank
+vIMemBank
+R7
+!i10b 1
+!s100 1X_gmXi^e5KEHh`5E=gOV3
+Iokz>`66;SM>M=cAEgVUgd3
+R2
+R3
+w1580238606
+8C:/Users/ADMIN/Desktop/Pipline New/InstMemory.v
+FC:/Users/ADMIN/Desktop/Pipline New/InstMemory.v
+L0 2
+R4
+r1
+!s85 0
+31
+Z8 !s108 1580314191.000000
+!s107 C:/Users/ADMIN/Desktop/Pipline New/InstMemory.v|
+!s90 -reportprogress|300|-work|Pipline|-vopt|-stats=none|C:/Users/ADMIN/Desktop/Pipline New/InstMemory.v|
+!i113 0
+R6
+R0
+n@i@mem@bank
+vmux2_1N1
+R7
+!i10b 1
+!s100 GJcEnMzm062RGOH@IbF9D3
+I>eI]QoPQ>O?[o2jAHR^F_2
+R2
+R3
+w1548300720
+8C:/Users/ADMIN/Desktop/Pipline New/mux2_1N1.v
+FC:/Users/ADMIN/Desktop/Pipline New/mux2_1N1.v
+L0 1
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ADMIN/Desktop/Pipline New/mux2_1N1.v|
+!s90 -reportprogress|300|-work|Pipline|-vopt|-stats=none|C:/Users/ADMIN/Desktop/Pipline New/mux2_1N1.v|
+!i113 0
+R6
+R0
+nmux2_1@n1
+vmux2_1N16
+R7
+!i10b 1
+!s100 D<X8RMA^QPREF8mkS[5Pe2
+IbiIUOAE>bPbCP^ZnGV0T]3
+R2
+R3
+w1548252689
+8C:/Users/ADMIN/Desktop/Pipline New/mux2_1N16.v
+FC:/Users/ADMIN/Desktop/Pipline New/mux2_1N16.v
+L0 1
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ADMIN/Desktop/Pipline New/mux2_1N16.v|
+!s90 -reportprogress|300|-work|Pipline|-vopt|-stats=none|C:/Users/ADMIN/Desktop/Pipline New/mux2_1N16.v|
+!i113 0
+R6
+R0
+nmux2_1@n16
+vmux2_1N3
+R7
+!i10b 1
+!s100 9CX5Q>FG8^R]@TMic``AU1
+IgA2:U878HifS01fhbg7RB1
+R2
+R3
+w1548252773
+8C:/Users/ADMIN/Desktop/Pipline New/mux2_1N3.v
+FC:/Users/ADMIN/Desktop/Pipline New/mux2_1N3.v
+L0 1
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ADMIN/Desktop/Pipline New/mux2_1N3.v|
+!s90 -reportprogress|300|-work|Pipline|-vopt|-stats=none|C:/Users/ADMIN/Desktop/Pipline New/mux2_1N3.v|
+!i113 0
+R6
+R0
+nmux2_1@n3
+vPipLine
+R7
+!i10b 1
+!s100 ]>VZhZ5S]iSW18eWf6I4]0
+IToimF40];?LF>4V1HZEYS1
+R2
+R3
+w1580308391
+8C:/Users/ADMIN/Desktop/Pipline New/PipLine.v
+FC:/Users/ADMIN/Desktop/Pipline New/PipLine.v
+L0 1
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ADMIN/Desktop/Pipline New/PipLine.v|
+!s90 -reportprogress|300|-work|Pipline|-vopt|-stats=none|C:/Users/ADMIN/Desktop/Pipline New/PipLine.v|
+!i113 0
+R6
+R0
+n@pip@line
+vRegFile
+R7
+!i10b 1
+!s100 9@658U>d@ElaYTXfnWeoO3
+I<IdlI`1n@i?0okN]dClN>2
+R2
+R3
+w1580308269
+8C:/Users/ADMIN/Desktop/Pipline New/regFile.v
+FC:/Users/ADMIN/Desktop/Pipline New/regFile.v
+L0 1
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ADMIN/Desktop/Pipline New/regFile.v|
+!s90 -reportprogress|300|-work|Pipline|-vopt|-stats=none|C:/Users/ADMIN/Desktop/Pipline New/regFile.v|
+!i113 0
+R6
+R0
+n@reg@file
+vsign_extend
+R7
+!i10b 1
+!s100 2fN_ni^S]Of>[j;JMiKhT3
+ICj:f5YOBGlbQRR70mQFhR1
+R2
+R3
+w1548252807
+8C:/Users/ADMIN/Desktop/Pipline New/sign_extend.v
+FC:/Users/ADMIN/Desktop/Pipline New/sign_extend.v
+L0 1
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ADMIN/Desktop/Pipline New/sign_extend.v|
+!s90 -reportprogress|300|-work|Pipline|-vopt|-stats=none|C:/Users/ADMIN/Desktop/Pipline New/sign_extend.v|
+!i113 0
+R6
+R0

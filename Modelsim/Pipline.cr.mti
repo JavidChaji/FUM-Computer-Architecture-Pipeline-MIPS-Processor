@@ -1,0 +1,92 @@
+{C:/Users/ADMIN/Desktop/Pipline New/mux2_1N3.v} {1 {vlog -work Pipline -vopt -stats=none {C:/Users/ADMIN/Desktop/Pipline New/mux2_1N3.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module mux2_1N3
+
+Top level modules:
+	mux2_1N3
+
+} {} {}} {C:/Users/ADMIN/Desktop/Pipline New/Data_Hazard_Detection.v} {1 {vlog -work Pipline -vopt -stats=none {C:/Users/ADMIN/Desktop/Pipline New/Data_Hazard_Detection.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Data_Hazard_Dectection
+
+Top level modules:
+	Data_Hazard_Dectection
+
+} {} {}} {C:/Users/ADMIN/Desktop/Pipline New/ControlUnit.v} {1 {vlog -work Pipline -vopt -stats=none {C:/Users/ADMIN/Desktop/Pipline New/ControlUnit.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module controlUnit
+
+Top level modules:
+	controlUnit
+
+} {} {}} {C:/Users/ADMIN/Desktop/Pipline New/alu.v} {1 {vlog -work Pipline -vopt -stats=none {C:/Users/ADMIN/Desktop/Pipline New/alu.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/ADMIN/Desktop/Pipline New/ALUControl.v} {1 {vlog -work Pipline -vopt -stats=none {C:/Users/ADMIN/Desktop/Pipline New/ALUControl.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module ALUControl
+
+Top level modules:
+	ALUControl
+
+} {} {}} {C:/Users/ADMIN/Desktop/Pipline New/DataMemory.v} {1 {vlog -work Pipline -vopt -stats=none {C:/Users/ADMIN/Desktop/Pipline New/DataMemory.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module DMemBank
+
+Top level modules:
+	DMemBank
+
+} {} {}} {C:/Users/ADMIN/Desktop/Pipline New/regFile.v} {1 {vlog -work Pipline -vopt -stats=none {C:/Users/ADMIN/Desktop/Pipline New/regFile.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module RegFile
+
+Top level modules:
+	RegFile
+
+} {} {}} {C:/Users/ADMIN/Desktop/Pipline New/InstMemory.v} {1 {vlog -work Pipline -vopt -stats=none {C:/Users/ADMIN/Desktop/Pipline New/InstMemory.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module IMemBank
+
+Top level modules:
+	IMemBank
+
+} {} {}} {C:/Users/ADMIN/Desktop/Pipline New/sign_extend.v} {1 {vlog -work Pipline -vopt -stats=none {C:/Users/ADMIN/Desktop/Pipline New/sign_extend.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module sign_extend
+
+Top level modules:
+	sign_extend
+
+} {} {}} {C:/Users/ADMIN/Desktop/Pipline New/adder.v} {1 {vlog -work Pipline -vopt -stats=none {C:/Users/ADMIN/Desktop/Pipline New/adder.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} {C:/Users/ADMIN/Desktop/Pipline New/PipLine.v} {1 {vlog -work Pipline -vopt -stats=none {C:/Users/ADMIN/Desktop/Pipline New/PipLine.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module PipLine
+
+Top level modules:
+	PipLine
+
+} {} {}} {C:/Users/ADMIN/Desktop/Pipline New/mux2_1N16.v} {1 {vlog -work Pipline -vopt -stats=none {C:/Users/ADMIN/Desktop/Pipline New/mux2_1N16.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module mux2_1N16
+
+Top level modules:
+	mux2_1N16
+
+} {} {}} {C:/Users/ADMIN/Desktop/Pipline New/mux2_1N1.v} {1 {vlog -work Pipline -vopt -stats=none {C:/Users/ADMIN/Desktop/Pipline New/mux2_1N1.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module mux2_1N1
+
+Top level modules:
+	mux2_1N1
+
+} {} {}}
