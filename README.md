@@ -50,9 +50,11 @@ Ferdowsi University of Mashhad Computer Architecture Pipeline MIPS Processor
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Verilog][Verilog.org]][Verilog-url]
+Technologies and Tools Utilized in this Project
+
+
+* [![Verilog][Verilog-Shield]][Verilog-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,5 +165,5 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 
-[Verilog.org]: https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=v&logoColor=white
+[Verilog-Shield]: https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=v&logoColor=white
 [Verilog-url]: https://ieeexplore.ieee.org/document/5985443
