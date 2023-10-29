@@ -46,6 +46,11 @@ Ferdowsi University of Mashhad Computer Architecture Pipeline MIPS Processor
 
 
 
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Pipelined MIPS Architecture][Pipelined-MIPS-Architecture-Image]][Pipelined-MIPS-Architecture-URL]
+
 
 
 ### Built With
@@ -166,4 +171,10 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 [Verilog-Shield]: https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=v&logoColor=white
+
 [Verilog-URL]: https://ieeexplore.ieee.org/document/5985443
+
+
+
+[Pipelined-MIPS-Architecture-Image]: Images/MIPS_Architecture_(Pipelined).svg
+[Pipelined-MIPS-Architecture-URL]: .
