@@ -102,7 +102,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Javid Chaji - [@JavidChaji](https://twitter.com/JavidChaji) - javid.chaji@gmail.com
 
-Project Link: [https://github.com/JavidChaji/FUM-Computer-Architecture-Pipeline-MIPS-Processor](https://github.com/JavidChaji/FUM-Computer-Architecture-Pipeline-MIPS-Processor)
+Project Link: [https://github.com/JavidChaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor](https://github.com/JavidChaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,32 +135,32 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- https://ileriayo.github.io/markdown-badges/ -->
 
 <!-- Contributors -->
-[contributors-shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Computer-Architecture-Pipeline-MIPS-Processor.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor.svg?style=for-the-badge
 
-[contributors-url]: https://github.com/javidchaji/FUM-Computer-Architecture-Pipeline-MIPS-Processor/graphs/contributors
+[contributors-url]: https://github.com/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor/graphs/contributors
 
 <!-- Forks -->
-[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Computer-Architecture-Pipeline-MIPS-Processor.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor.svg?style=for-the-badge
 
-[forks-url]: https://github.com/javidchaji/FUM-Computer-Architecture-Pipeline-MIPS-Processor/network/members
+[forks-url]: https://github.com/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor/network/members
 
 
 <!-- Stars -->
-[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Computer-Architecture-Pipeline-MIPS-Processor.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor.svg?style=for-the-badge
 
-[stars-url]: https://github.com/javidchaji/FUM-Computer-Architecture-Pipeline-MIPS-Processor/stargazers
+[stars-url]: https://github.com/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor/stargazers
 
 
 <!-- Issues -->
-[issues-shield]: https://img.shields.io/github/issues/javidchaji/FUM-Computer-Architecture-Pipeline-MIPS-Processor.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor.svg?style=for-the-badge
 
-[issues-url]: https://github.com/javidchaji/FUM-Computer-Architecture-Pipeline-MIPS-Processor/issues
+[issues-url]: https://github.com/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor/issues
 
 
 <!-- License -->
-[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Computer-Architecture-Pipeline-MIPS-Processor.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor.svg?style=for-the-badge
 
-[license-url]: https://github.com/javidchaji/FUM-Computer-Architecture-Pipeline-MIPS-Processor/blob/master/LICENSE
+[license-url]: https://github.com/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor/blob/master/LICENSE
 
 
 <!-- Linkedin -->
