@@ -1,15 +1,15 @@
 <a name="readme-top"></a>
 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![Contributors][Contributors-Shield]][Contributors-URL]
+[![Forks][Forks-Shield]][Forks-URL]
+[![Stargazers][Stars-Shield]][Stars-URL]
+[![Issues][Issues-Shield]][Issues-URL]
+[![MIT License][License-Shield]][License-URL]
 
 
 
-[![LinkedIn][linkedin-shield]][javid-linkedin-url]
+[![LinkedIn][LinkedIn-Shield]][Javid-Linkedin-URL]
 
 # MIPS-pipeline-verilog
 
@@ -135,46 +135,47 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- https://ileriayo.github.io/markdown-badges/ -->
 
 <!-- Contributors -->
-[contributors-shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor.svg?style=for-the-badge
+[Contributors-Shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor.svg?style=for-the-badge
 
-[contributors-url]: https://github.com/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor/graphs/contributors
+[Contributors-URL]: https://github.com/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor/graphs/contributors
 
 <!-- Forks -->
-[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor.svg?style=for-the-badge
+[Forks-Shield]: https://img.shields.io/github/forks/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor.svg?style=for-the-badge
 
-[forks-url]: https://github.com/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor/network/members
+[Forks-URL]: https://github.com/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor/network/members
 
 
 <!-- Stars -->
-[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor.svg?style=for-the-badge
+[Stars-Shield]: https://img.shields.io/github/stars/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor.svg?style=for-the-badge
 
-[stars-url]: https://github.com/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor/stargazers
+[Stars-URL]: https://github.com/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor/stargazers
 
 
 <!-- Issues -->
-[issues-shield]: https://img.shields.io/github/issues/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor.svg?style=for-the-badge
+[Issues-Shield]: https://img.shields.io/github/issues/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor.svg?style=for-the-badge
 
-[issues-url]: https://github.com/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor/issues
+[Issues-URL]: https://github.com/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor/issues
 
 
 <!-- License -->
-[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor.svg?style=for-the-badge
+[License-Shield]: https://img.shields.io/github/license/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor.svg?style=for-the-badge
 
-[license-url]: https://github.com/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor/blob/master/LICENSE
-
-
-<!-- Linkedin -->
-[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-
-[javid-linkedin-url]: https://linkedin.com/in/javidchaji
+[License-URL]: https://github.com/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor/blob/master/LICENSE
 
 
+<!-- LinkedIn -->
+[LinkedIn-Shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 
+[Javid-LinkedIn-URL]: https://linkedin.com/in/javidchaji
+
+
+<!-- Verilog -->
 [Verilog-Shield]: https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=v&logoColor=white
 
 [Verilog-URL]: https://ieeexplore.ieee.org/document/5985443
 
 
-
+<!-- MIPS Architecture -->
 [Pipelined-MIPS-Architecture-Image]: Images/MIPS_Architecture_(Pipelined).svg
+
 [Pipelined-MIPS-Architecture-URL]: .
