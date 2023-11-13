@@ -6,7 +6,7 @@
 [![Issues][Issues-Shield]][Issues-URL]
 [![MIT License][License-Shield]][License-URL]
 
-[![LinkedIn][LinkedIn-Shield]][Javid-Linkedin-URL]
+[![LinkedIn][LinkedIn-Shield]][Javid-LinkedIn-URL]
 
 # MIPS-pipeline-verilog
 
@@ -123,6 +123,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Contributors-Shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor.svg?style=for-the-badge
 
 [Contributors-URL]: https://github.com/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor/graphs/contributors
+
 
 <!-- Forks -->
 [Forks-Shield]: https://img.shields.io/github/forks/javidchaji/FUM-Computer-Architecture-Pipelined-MIPS-Processor.svg?style=for-the-badge
